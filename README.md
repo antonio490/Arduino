@@ -13,6 +13,7 @@ Fix error: "Cannot open /dev/ttyS0: Permission denied"
 
 This is an example of how to list boards connected to your computer.
 * arduino-cli
-  ```arduino-cli
+
+```arduino-cli
   list board
   ```
